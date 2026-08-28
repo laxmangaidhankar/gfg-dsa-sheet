@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiArrays/Matrix.iml" filepath="$PROJECT_DIR$/MultiArrays/Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" filepath="$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" />
     </modules>
   </component>
