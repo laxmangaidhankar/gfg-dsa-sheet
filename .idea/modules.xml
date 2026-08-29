@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" filepath="$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiArrays/Matrix.iml" filepath="$PROJECT_DIR$/MultiArrays/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" filepath="$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" />
     </modules>
