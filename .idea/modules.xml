@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays01/Arrays01.iml" filepath="$PROJECT_DIR$/Arrays01/Arrays01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS - Array/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/DS - Array/BASIC/BASIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays01/Basic/Basic.iml" filepath="$PROJECT_DIR$/Arrays01/Basic/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS - Array/DS - Array.iml" filepath="$PROJECT_DIR$/DS - Array/DS - Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays01/Easy/Easy.iml" filepath="$PROJECT_DIR$/Arrays01/Easy/Easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" filepath="$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiArrays/Matrix.iml" filepath="$PROJECT_DIR$/MultiArrays/Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
