@@ -7,11 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/DS - Array/BASIC/BASIC.iml" filepath="$PROJECT_DIR$/DS - Array/BASIC/BASIC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays01/Basic/Basic.iml" filepath="$PROJECT_DIR$/Arrays01/Basic/Basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/DS - Array/DS - Array.iml" filepath="$PROJECT_DIR$/DS - Array/DS - Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS - Array/EASY/EASY.iml" filepath="$PROJECT_DIR$/DS - Array/EASY/EASY.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays01/Easy/Easy.iml" filepath="$PROJECT_DIR$/Arrays01/Easy/Easy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" filepath="$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MultiArrays/Matrix.iml" filepath="$PROJECT_DIR$/MultiArrays/Matrix.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" filepath="$PROJECT_DIR$/.idea/gfg-dsa-sheet.iml" />
     </modules>
   </component>
