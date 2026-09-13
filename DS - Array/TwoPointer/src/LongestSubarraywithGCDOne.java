@@ -15,7 +15,7 @@ public class LongestSubarraywithGCDOne {
         return a;
     }
 
-
+    //O(n log (M)) O(1)
     static int optimal(int[] nums){
         int n = nums.length;
         int maxLen=-1;
@@ -32,7 +32,7 @@ public class LongestSubarraywithGCDOne {
     }
 
 
-    //O(n^2) O(1)
+    //O(n^2 log(M)) O(1)
     static int brute(int[] nums) {
         int n = nums.length;
         int maxLen = -1;
