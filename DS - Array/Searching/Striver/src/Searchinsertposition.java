@@ -1,14 +1,12 @@
-public class LowerBound {
+public class Searchinsertposition {
 
     public static void main(String[] args) {
-        int[] nums= {3,5,8,15,19};
-        System.out.println(lowerBoundO(nums, 9));
+        int[] nums = {1, 3, 5, 6};
+        System.out.println(searchO(nums, 2));
     }
 
-
-    static int lowerBoundO(int[] nums, int x) {
+    static int searchO(int[] nums, int x) {
         int n = nums.length;
-
         int low = 0;
         int high = n - 1;
         int ans = n;
@@ -22,15 +20,11 @@ public class LowerBound {
             } else {
                 low = mid + 1;
             }
-
-
         }
-
         return low;
     }
 
-
-    static int lowerBoundBF(int[] nums, int x) {
+    static int searchBF(int[] nums, int x) {
         int n = nums.length;
 
         for (int i = 0; i < n; i++) {
@@ -38,6 +32,7 @@ public class LowerBound {
                 return i;
             }
         }
+
         return n;
     }
 }
